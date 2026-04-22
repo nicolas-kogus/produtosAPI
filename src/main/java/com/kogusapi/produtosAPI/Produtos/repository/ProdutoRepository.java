@@ -1,6 +1,6 @@
-package com.kogusapi.produtosAPI.repository;
+package com.kogusapi.produtosAPI.Produtos.repository;
 
-import com.kogusapi.produtosAPI.model.Produto;
+import com.kogusapi.produtosAPI.Produtos.model.Produto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

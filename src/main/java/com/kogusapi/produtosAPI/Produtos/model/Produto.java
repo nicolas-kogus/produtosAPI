@@ -1,4 +1,4 @@
-package com.kogusapi.produtosAPI.model;
+package com.kogusapi.produtosAPI.Produtos.model;
 
 import jakarta.persistence.*;
 
